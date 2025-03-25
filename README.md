@@ -19,7 +19,7 @@ he wins and the game starts again.
 
 ### Screenshot
 
-![screenshot]((https://github.com/mashkovamilana/catch-up/blob/main/images/catchUp.png)
+![screenshot](https://github.com/mashkovamilana/catchUp/blob/main/images/catchUp.png)
 
 
 ### Executing program
