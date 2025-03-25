@@ -2,15 +2,15 @@ from pygame import *
 
 window = display.set_mode((700, 500))
 display.set_caption('Catch-up')
-background = transform.scale(image.load('background.png'), (700, 500))
+background = transform.scale(image.load('images/background.png'), (700, 500))
 
 x1 = 650
 y1 = 0
 x2 = 10
 y2 = 450
 
-sprite1 = transform.scale(image.load('sprite1.png'), (50, 50))
-sprite2 = transform.scale(image.load('sprite2.png'), (50, 50))
+sprite1 = transform.scale(image.load('images/sprite1.png'), (50, 50))
+sprite2 = transform.scale(image.load('images/sprite2.png'), (50, 50))
 
 
 def checks(x1, x2, y1, y2):
